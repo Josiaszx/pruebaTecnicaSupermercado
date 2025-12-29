@@ -4,7 +4,7 @@
 Este repositorio contiene el código correspondiente al siguiente video y cursos asociados:
 
 - RESUELVO una PRUEBA TÉCNICA de JAVA SPRING BOOT de una empresa REAL en 3 horas [Ver aquí](https://youtu.be/l-Bl45I6UEY)
-- Curso Desarrollo de Apis en Java con Spring Boot: [Ver aquí] (https://todocodeacademy.com/course/desarrollo-de-apis-con-spring-boot/)
+- Curso Desarrollo de Apis en Java con Spring Boot: [Ver aquí](https://todocodeacademy.com/course/desarrollo-de-apis-con-spring-boot/)
 - Curso Programación Funcional con Java: [Ver aquí](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwXS3RHBTbQfLLWLRJT8sMS)
 
 
